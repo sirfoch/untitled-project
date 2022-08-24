@@ -16,3 +16,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Today's commit 
+
+##Local development 
+
+1. Open index.html in your browser
+2. then proceed to type in new code line just as you may please
+3. 
